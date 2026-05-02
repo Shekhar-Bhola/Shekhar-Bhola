@@ -12,13 +12,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Python Developer** with 4+ years of experience designing and building **automation systems, monitoring dashboards, backend utilities, and data processing pipelines** for enterprise environments.
+I'm a **Python Developer** with 4+ years of experience designing and building **automation systems, monitoring dashboards, and data processing pipelines** for enterprise environments.
 
 - 🔧 Currently working as **Python Developer | Automation & Monitoring Solutions** at **TATA Consultancy Services**
 - 🚀 I build tools that **eliminate manual processes** — from access provisioning workflows to real-time dashboards and alerting systems
 - 💡 Passionate about writing **clean, scalable Python code** and solving real operational problems through automation
 - 🌱 Expanding into **FastAPI backend development**, **REST APIs**, and **PostgreSQL / MongoDB**
-- 🎯 Looking for opportunities in **Python Development**, **Backend Engineering**, or **Automation Engineering**
+- 🎯 Looking for opportunities in **Python Development**, or **Automation Engineering**
 
 ---
 
