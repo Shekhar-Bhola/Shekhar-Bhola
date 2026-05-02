@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shekhar Bhola 👋</h1>
 
-<h3 align="center">Python Developer · Automation & Backend Solutions · Pune, India</h3>
+<h3 align="center">Python Developer · Automation & Data Solutions · Pune, India</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
